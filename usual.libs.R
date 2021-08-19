@@ -1,3 +1,4 @@
+# on gthub since 19.08.2021
 usual.libs <- function()
 {
   library(SurvRegCensCov)
